@@ -1,4 +1,4 @@
- ## Oii!👋Eu sou a Lorena 2
+ ## Oii!👋Eu sou a Lorena 1
 
 - Técnica de informática
 - Estudante de Ciência da Computação
