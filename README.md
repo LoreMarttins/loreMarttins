@@ -11,6 +11,9 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="90px">](https://www.linkedin.com/in/lorena-martins-53020322b)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Icon" height="90px">](https://www.instagram.com/lore.marttins?igsh=cno5d3U5ODl3ajE5)
 
+<img src="https://octodex.github.com/images/codercat.jpg" alt="GitHub Cat" height="90px">
+
+
 
 
 
