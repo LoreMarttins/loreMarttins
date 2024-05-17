@@ -4,8 +4,6 @@
 - Materias de estudos da UESPI
 - Provas/atividades e outros...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreMarttins1&count_private=true&show_icons=true&theme=greenl)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreMarttins1&langs_count=3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" height="90px">](https://github.com/LoreMarttins1)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="90px">](https://www.linkedin.com/in/lorena-martins-53020322b)
